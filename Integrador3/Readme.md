@@ -9,6 +9,7 @@ PARA REST EN POSTMAN:
 
 
 BASE:estudiante
+
 Para dar de alta un estudiante POST: BASE/estudiante/
 
 BASE:inscripciones
