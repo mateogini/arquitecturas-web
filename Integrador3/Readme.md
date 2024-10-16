@@ -1,9 +1,13 @@
 en docker
+
 usuario:root
+
 password:1234
 
 
 PARA REST EN POSTMAN:
+
+
 BASE:estudiante
 Para dar de alta un estudiante POST: BASE/estudiante/
 
